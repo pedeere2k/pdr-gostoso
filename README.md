@@ -29,7 +29,7 @@
 
 <h1 align="center">
   <p>
-    <img src="https://files.catbox.moe/4r1qmk.jpg" alt="YAKANJI-BOT" width="720">
+    <img src="https://files.catbox.moe/psrxuq.jpg" alt="YAKANJI-BOT" width="720">
   </p>
 </h1>
 
