@@ -24,7 +24,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=FF073A&center=true&vCenter=true&lines=𝐘𝐀𝐊𝐀𝐍𝐉𝐈-𝐁𝐎𝐓;𝐍𝐄𝐖+𝐒𝐘𝐒𝐓𝐄𝐌" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=2500&color=6A0DAD&center=true&vCenter=true&lines=𝐒𝐎𝐍𝐈𝐂-𝐁𝐎𝐓;𝐍𝐄𝐖+𝐒𝐘𝐒𝐓𝐄𝐌;𝐏𝐃𝐑+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑" alt="Typing Animation">
 </p>
 
 <h1 align="center">
