@@ -10,7 +10,7 @@
           <img src="https://qu.ax/LLmwf.png" alt="Verificado" width="20" style="vertical-align: middle;">
         </h2>
         <p style="margin: 5px 0; color: #ccc; font-family: monospace; font-size: 14px;">
-          Desenvolvedor | P D R - YAKANJI-BOT
+          Desenvolvedor | P D R - SONIC-BOT
         </p>
         <p style="margin: 8px 0 0 0;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36" style="margin-right: 6px;">
@@ -29,7 +29,7 @@
 
 <h1 align="center">
   <p>
-    <img src="https://files.catbox.moe/psrxuq.jpg" alt="YAKANJI-BOT" width="720">
+    <img src="https://files.catbox.moe/bj64b7.jpg" alt="SONIC-BOT" width="720">
   </p>
 </h1>
 
