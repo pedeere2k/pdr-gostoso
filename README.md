@@ -29,12 +29,12 @@
 
 <h1 align="center">
   <p>
-    <img src="https://files.catbox.moe/bj64b7.jpg" alt="." width="720">
+    <img src="https://files.catbox.moe/ogg88v.gif" alt="." width="720">
   </p>
 </h1>
 
 <p align="center">
-  <a href="#"><img title="DEV-MULTI-DEVICE" src="https://img.shields.io/badge/BOT•MULTI•DEVICE-blueviolet?&style=for-the-badge"></a>
+  <a href="#"><img title="DEV-MULTI-DEVICE" src="https://img.shields.io/badge/DEV•MULTI•DEVICE-blueviolet?&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 
 <div align="center">
   <a href="https://github.com/Lm-Only/Dz7api">
-    <img src="https://img.shields.io/badge/Visitar%20Sonic-Md-ff69b4?style=for-the-badge&logo=github" alt="Repositório The Api">
+    <img src="https://img.shields.io/badge/Visitar%20dz7-Api-ff69b4?style=for-the-badge&logo=github" alt="Repositório The Api">
   </a>
 </div>
 
