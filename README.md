@@ -3,12 +3,14 @@
 # **@pedeere2k • Js**
 **desenvolvedor especializado em bots, APIs e sistemas avançados.**
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top:10px;">
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 35px; margin-top:0px; margin-bottom:10px;">
+  
   <img src="https://files.catbox.moe/lxlzmx.jpg" width="150" style="border-radius: 50%; border:4px solid #8A2BE2;">
 
-  <img src="https://raw.githubusercontent.com/pedeere2k/svg/main/scroll.svg" width="250">
-
+  <!-- SCROLL AJUSTADO (MAIOR + MAIS PRA CIMA) -->
+  <img src="https://raw.githubusercontent.com/pedeere2k/svg/main/scroll.svg" 
+       width="330" 
+       style="margin-top:-10px;">
 </div>
 
 ## **Domínios**
