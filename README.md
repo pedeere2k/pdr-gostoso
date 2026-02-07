@@ -5,8 +5,9 @@
 
 <img src="https://files.catbox.moe/lxlzmx.jpg" width="150" style="border-radius: 50%; border:4px solid #8A2BE2; margin-top:10px;">
 
-### <img src="https://qu.ax/LLmwf.png" width="22">  
 **Pdr Developer**
+
+---
 
 ## **Domínios**
 <p>
@@ -26,6 +27,7 @@
   <img src="https://img.shields.io/badge/Autor-@PDR%20LINDO-000000?style=for-the-badge&logo=github&labelColor=8A2BE2">
 </p>
 
+---
 
 ## **My Repositórios**
 <div align="center">
