@@ -23,8 +23,8 @@
 
 
 <p>
-  <img src="https://img.shields.io/badge/DEV•MULTI•DEVICE-000000?style=for-the-badge&logoColor=white&labelColor=8A2BE2">
-  <img src="https://img.shields.io/badge/Autor-@PDR%20LINDO-000000?style=for-the-badge&logo=github&labelColor=8A2BE2">
+  <img src="https://img.shields.io/badge/THE•REPOSITORY-000000?style=for-the-badge&logoColor=white&labelColor=8A2BE2">
+  <img src="https://img.shields.io/badge/Autor-@Pdr%202k-000000?style=for-the-badge&logo=github&labelColor=8A2BE2">
 </p>
 
 ---
