@@ -7,7 +7,7 @@
 <img src="https://files.catbox.moe/lxlzmx.jpg" width="150" style="border-radius: 50%; border:4px solid #8A2BE2; margin-top:10px;">
 
 **Pdr Developer**
-<img src="https://raw.githubusercontent.com/pedeere2k/svg/main/sscroll.svg" width="300">
+<img src="https://raw.githubusercontent.com/pedeere2k/svg/main/scroll.svg" width="300">
 
 ---
 
