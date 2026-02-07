@@ -21,13 +21,17 @@ style="border-radius:50%; border:4px solid #8A2BE2; margin-top:-70px; background
 </div>
 
 
-## Sobre Mim
-Sou **Pdr (pedeere2k)**. Desenvolvedor focado em **JavaScript**, **Node.js**, automações, bots e APIs.  
+## About Me / Sobre Mim
+
+**🇺🇸** I am **Pdr (pedeere2k)**. A developer focused on **JavaScript**, **Node.js**, automations, bots, and APIs.
+Simple, straightforward projects **designed to work in the best possible way**.
+
+**🇧🇷** Sou **Pdr (pedeere2k)**. Desenvolvedor focado em **JavaScript**, **Node.js**, automações, bots e APIs.  
 Projetos simples, diretos e **feitos pra funcionar Da Melhor Forma possivel**.
 
 
 
-## Meus Domínios
+## My Domains / Meus Domínios
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
@@ -38,7 +42,7 @@ Projetos simples, diretos e **feitos pra funcionar Da Melhor Forma possivel**.
 
 ---
 
-## Projeto em destaque
+## Featured project / Projeto Em Destaque
 <div align="center">
 
 <a href="https://github.com/pedeere2k/Dz7Api">
@@ -47,19 +51,17 @@ Projetos simples, diretos e **feitos pra funcionar Da Melhor Forma possivel**.
 
 </div>
 
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-<img src="https://img.shields.io/badge/Status-Ativo-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open--Source-Sim-000000?style=for-the-badge&labelColor=8A2BE2"/>
-<img src="https://img.shields.io/badge/Linguagem-JavaScript-f7df1e?style=for-the-badge"/>
-
-</div>
 
 
-## Sobre
+## 📈 My Skill Programation / minhas Habilidades
+
+- JavaScript / Node.js
+- Bots e automações
+- APIs REST
+- Integrações HTTP
+
+
+## 🌍 My Idiomas / Meus Idiomas
 
 ### 🇺🇸 English
 > I'm pdr2k. Developer focused on bots, APIs and infrastructure using JavaScript.
