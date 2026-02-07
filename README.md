@@ -21,7 +21,7 @@ style="border-radius:50%; border:4px solid #8A2BE2; margin-top:-70px; background
 </div>
 
 
-## About Me / Sobre Mim
+## About Me
 
 **🇺🇸** I am **Pdr (pedeere2k)**. A developer focused on **JavaScript**, **Node.js**, automations, bots, and APIs.
 Simple, straightforward projects **designed to work in the best possible way**.
@@ -31,7 +31,7 @@ Projetos simples, diretos e **feitos pra funcionar Da Melhor Forma possivel**.
 
 
 
-## My Domains / Meus Domínios
+## My Domains
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/>
@@ -42,7 +42,7 @@ Projetos simples, diretos e **feitos pra funcionar Da Melhor Forma possivel**.
 
 ---
 
-## Featured project / Projeto Em Destaque
+## Featured project
 <div align="center">
 
 <a href="https://github.com/pedeere2k/Dz7Api">
@@ -53,7 +53,7 @@ Projetos simples, diretos e **feitos pra funcionar Da Melhor Forma possivel**.
 
 
 
-## 📈 My Skill Programation / minhas Habilidades
+## Skills Programation
 
 - JavaScript / Node.js
 - Bots e automações
@@ -61,7 +61,7 @@ Projetos simples, diretos e **feitos pra funcionar Da Melhor Forma possivel**.
 - Integrações HTTP
 
 
-## 🌍 My Idiomas / Meus Idiomas
+## 🌍 My Idiomas
 
 ### 🇺🇸 English
 > I'm pdr2k. Developer focused on bots, APIs and infrastructure using JavaScript.
