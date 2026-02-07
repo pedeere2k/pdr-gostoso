@@ -17,7 +17,7 @@ style="border-radius:50%; border:4px solid #8A2BE2; margin-top:-70px; background
 # **@pedeere2k**
 ### JavaScript • Node.js • Bots • APIs
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=Developer+by+chaos;Bots%2C+APIs+and+Automations;Open-source+enjoyer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=500&lines=Developer+by+Pdr;Bots%2C+APIs+and+Automations;Open-source+enjoyer" />
 
 </div>
 
