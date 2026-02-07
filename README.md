@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- SVG WAVE HEADER -->
 <svg width="100%" height="180" viewBox="0 0 1440 320" preserveAspectRatio="none">
   <defs>
     <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
@@ -43,7 +42,7 @@ Projetos simples, diretos e **feitos pra funcionar Da Melhor Forma possivel**.
 <div align="center">
 
 <a href="https://github.com/pedeere2k/Dz7Api">
-  <img src="https://img.shields.io/badge/Dz7Api-API%20em%20uso%20pela%20comunidade-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dz7Api-Api%20liberado%20para%20Modificaçoes-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
