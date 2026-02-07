@@ -52,15 +52,9 @@ Projetos simples, diretos e **feitos pra funcionar Da Melhor Forma possivel**.
 ## 📊 GitHub Stats
 <div align="center">
 
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api?username=pedeere2k&show_icons=true&theme=transparent&hide_border=true&count_private=true&cache_seconds=86400"
-/>
-
-<img
-  height="160"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedeere2k&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400"
-/>
+<img src="https://img.shields.io/badge/Status-Ativo-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open--Source-Sim-000000?style=for-the-badge&labelColor=8A2BE2"/>
+<img src="https://img.shields.io/badge/Linguagem-JavaScript-f7df1e?style=for-the-badge"/>
 
 </div>
 
